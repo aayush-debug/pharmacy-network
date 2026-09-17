@@ -1,0 +1,9 @@
+# ==============================================================================
+# Pharmacy Stock Query System — Frontend Dependencies
+# ==============================================================================
+# The desktop GUI will be built using PySide6 (Qt for Python).
+# Note: Install this inside the frontend virtual environment ('frontend_env')
+# during Phase 3 (GUI implementation).
+# ==============================================================================
+
+PySide6>=6.5.0

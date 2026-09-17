@@ -1,0 +1,15 @@
+# Backend specific ignores
+.env
+*.db
+*.sqlite3
+
+# Generated reports & raw downloads (keep structure via .gitkeep)
+reports/*
+!reports/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+__pycache__/
+*.pyc

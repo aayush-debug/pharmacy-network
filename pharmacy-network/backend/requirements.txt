@@ -1,0 +1,15 @@
+# ==============================================================================
+# Pharmacy Stock Query System — Backend Dependencies
+# ==============================================================================
+# In Phase 1 and initial networking phases, the backend relies EXCLUSIVELY
+# on the Python Standard Library (socket, threading, sqlite3, http.server,
+# smtplib, email, json, pathlib, os).
+#
+# Future external packages will be added only when their respective phases arrive:
+# - pyftpdlib (Phase 9: FTP server implementation)
+# - datasets, huggingface_hub (Phase 11: Hugging Face dataset catalog import)
+# ==============================================================================
+
+pyftpdlib>=2.0.0
+datasets>=2.14.0
+
