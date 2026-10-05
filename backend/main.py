@@ -1,3 +1,14 @@
+"""
+Unified Backend Server Launcher.
+Starts all 4 backend network server daemons concurrently:
+1. TCP Socket Server (Port 5000)
+2. UDP Discovery Server (Port 5001)
+3. HTTP REST API Server (Port 8000)
+4. FTP File Transfer Server (Port 2121)
+
+Press Ctrl+C to cleanly stop all servers.
+"""
+
 from pathlib import Path
 import signal
 import sys
