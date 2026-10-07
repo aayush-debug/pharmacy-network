@@ -1,4 +1,5 @@
 # Pharmacy Stock Query System — Multi-Protocol Client-Server Architecture
+This project is a pharmacy network application
 
 A comprehensive Computer Networking implementation demonstrating distributed systems, socket programming, application protocols, and database isolation using Python and PySide6.
 
