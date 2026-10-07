@@ -1,7 +1,5 @@
 # Pharmacy Stock Query System — Multi-Protocol Client-Server Architecture
 
-This project is a pharmacy network application. It is based on multiple protocols type client server architecture. The project is as follows :
-
 A comprehensive Computer Networking implementation demonstrating distributed systems, socket programming, application protocols, and database isolation using Python and PySide6.
 
 > **Academic Disclaimer:** This project is an independent educational demonstration inspired by retail pharmacy distribution networks. It is **not** affiliated with Apollo Pharmacy or any commercial pharmaceutical entity.
