@@ -1,5 +1,6 @@
 # Pharmacy Stock Query System — Multi-Protocol Client-Server Architecture
-This project is a pharmacy network application. It is based on multiple protocols type client server architecture.
+
+This project is a pharmacy network application. It is based on multiple protocols type client server architecture. The project is as follows :
 
 A comprehensive Computer Networking implementation demonstrating distributed systems, socket programming, application protocols, and database isolation using Python and PySide6.
 
